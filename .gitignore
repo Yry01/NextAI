@@ -24,3 +24,5 @@ yarn-error.log*
 
 # ignore mode_modules files
 node_modules/
+*.env
+/server/uploads/*.txt
