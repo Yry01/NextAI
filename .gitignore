@@ -26,3 +26,5 @@ yarn-error.log*
 node_modules/
 *.env
 /server/uploads/*.txt
+server/uploads/open ai secrete key.txt
+server/.env
